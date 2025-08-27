@@ -1,6 +1,6 @@
 {
   "id": "zhenshiz-chatbox",
-  "platform": {
+  "platforms": {
     "modrinth": "chatbox",
     "curseforge": "chatbox-for-mc"
   },
